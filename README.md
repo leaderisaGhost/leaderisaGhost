@@ -1,27 +1,16 @@
-## Hi there 👋# Ivan "Ghost" Morozov 👻
-🧠 Former blackhat. Now fighting fire with fire.
-💻 Python | Rust | AI Ops | Cybersecurity
-📍 Based: Texas & Unlisted
-🔗 [Third Rome Market](https://thirdromemarket.com)
+# Ivan "lone-tsar" Morozov 
 
-*changelog patch*
+Ex-blackhat | Cyber-defense strategist | AI-integrated analyst
 
-### Projects of Interest:
-- [BlackBox-Ghost](https://github.com/recovering-blackhat/BlackBox-Ghost)
-- [GhostFinance_Tracker](https://github.com/recovering-blackhat/GhostFinance_Tracker)
-- [CensusAnalyzer-USA](https://github.com/recovering-blackhat/CensusAnalyzer-USA)
+- 🔍 Building tools to track deep web threats
+- 💸 Scanning crypto flows & retail behavior
+- 📉 Mapping political migration & economic collapse
 
-<!--
-**leaderisaGhost/leaderisaGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projects
+- [BlackBox-Ghost](https://github.com/leaderisaGhost/BlackBox-Ghost) – GPT-based ransomware chatter detection  
+- [GhostFinance_Tracker](https://github.com/leaderisaGhost/GhostFinance_Tracker) – Vice behavior analysis via finance tracking  
+- [CensusAnalyzer-USA](https://github.com/leaderisaGhost/CensusAnalyzer-USA) – Collapse mapping in LA/AR  
+- [RetailSales_DeepDive](https://github.com/leaderisaGhost/RetailSales_DeepDive) – Behavioral sales analysis  
+- [CryptoSentimentScanner](https://github.com/leaderisaGhost/CryptoSentimentScanner) – Whale exit + meme coin shill detector
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "You can’t stop what you don’t understand. I used to build chaos—now I track it."
