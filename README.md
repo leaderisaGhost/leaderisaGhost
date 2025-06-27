@@ -4,6 +4,8 @@
 📍 Based: Texas & Unlisted
 🔗 [Third Rome Market](https://thirdromemarket.com)
 
+*changelog patch*
+
 ### Projects of Interest:
 - [BlackBox-Ghost](https://github.com/recovering-blackhat/BlackBox-Ghost)
 - [GhostFinance_Tracker](https://github.com/recovering-blackhat/GhostFinance_Tracker)
